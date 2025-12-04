@@ -8,4 +8,5 @@ add_executable(MagicEngineExample
 # 链接引擎库
 target_link_libraries(MagicEngineExample PRIVATE MagicEngine)
 
+
 message(STATUS "MagicEngine example configured")
